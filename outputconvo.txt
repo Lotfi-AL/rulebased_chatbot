@@ -1,0 +1,74 @@
+HUMAN ++++ hi
+BOT ++++ Hello!
+HUMAN ++++ how are you
+BOT ++++ Hi there, how can I help?
+=============================================
+HUMAN ++++ hi there
+BOT ++++ Good to see you again!
+HUMAN ++++ why not
+BOT ++++ Hello!
+=============================================
+HUMAN ++++ what hour is it?`
+BOT ++++ 18 years young!
+HUMAN ++++ how old are you?
+BOT ++++ I am 18 years old!
+HUMAN ++++ What is your name?
+BOT ++++ I'm Tim!
+HUMAN ++++ what is name?
+BOT ++++ I'm Tim!
+HUMAN ++++ name?
+BOT ++++ I'm Tim aka Tech With Tim.
+HUMAN ++++ what can i call you?
+BOT ++++ I'm Tim aka Tech With Tim.
+HUMAN ++++ call
+BOT ++++ Hi there, how can I help?
+HUMAN ++++ hours?
+BOT ++++ We are open 7am-4pm Monday-Friday!
+HUMAN ++++ when are you open
+BOT ++++ We are open 7am-4pm Monday-Friday!
+HUMAN ++++ when open
+BOT ++++ We are open 7am-4pm Monday-Friday!
+HUMAN ++++ when
+BOT ++++ Goodbye!
+HUMAN ++++ when you
+BOT ++++ We are open 7am-4pm Monday-Friday!
+HUMAN ++++ shop
+BOT ++++ Good to see you again!
+HUMAN ++++ buy
+BOT ++++ Good to see you again!
+HUMAN ++++ buy something
+BOT ++++ We sell chocolate chip cookies for $2!
+HUMAN ++++ what on the menu
+BOT ++++ We sell chocolate chip cookies for $2!
+HUMAN ++++ what is on the menu
+BOT ++++ We sell chocolate chip cookies for $2!
+HUMAN ++++ cookies?
+BOT ++++ Hello!
+HUMAN ++++ cookies
+BOT ++++ Good to see you again!
+HUMAN ++++ could i get something to eat
+BOT ++++ Cookies are on the menu!
+=============================================
+HUMAN ++++ hi
+BOT ++++ Hi there, how can I help?
+HUMAN ++++ how are you
+BOT ++++ Hello!
+HUMAN ++++ I want to buy something
+BOT ++++ We sell chocolate chip cookies for $2!
+HUMAN ++++ what do you sell
+BOT ++++ Cookies are on the menu!
+HUMAN ++++ okay i will buy one
+BOT ++++ We sell chocolate chip cookies for $2!
+HUMAN ++++ thanks
+BOT ++++ Hello!
+HUMAN ++++ goodbye
+BOT ++++ Sad to see you go :(
+HUMAN ++++ hey
+BOT ++++ Good to see you again!
+HUMAN ++++ how you doing
+BOT ++++ Hello!
+=============================================
+HUMAN ++++ hey
+BOT ++++ Good to see you again!
+HUMAN ++++ how are you
+BOT ++++ Hi there, how can I help?
